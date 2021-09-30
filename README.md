@@ -1,2 +1,3 @@
 # Learn-Python
 Start Learning Python for Non-Computer/IT Background People
+THIS IS FOR THOSE WHO WANT TO LEARN PYTHON LANGUAGE AND ARE FROM NON-COMPUTER/IT BACKGROUND.
